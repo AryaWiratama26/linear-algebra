@@ -21,3 +21,10 @@ a = np.array([
 
 invers_a = np.linalg.inv(a)
 print(invers_a)
+
+
+""" 
+
+    Untuk metode OBE (A|I) = (I|A^i)
+
+"""
